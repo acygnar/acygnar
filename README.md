@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Cygnar</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
 
-- 👨‍💻 All of my projects are available at [web4ads.pl](web4ads.pl)
+- 👨‍💻 All of my projects are available at [www.web4ads.pl](web4ads.pl) - The website is under construction
 
 - 📫 How to reach me **a.cygnar@web4ads.pl**
 
