@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://codepen.io/acygnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="acygnar" height="30" width="40" /></a>
 <a href="https://dev.to/@acygnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@acygnar" height="30" width="40" /></a>
-<a href="https://app.daily.dev/acygnar"><img src="https://api.daily.dev/devcards/7bc8c522225c430b8536f95caa75269d.png?r=ytx" width="400" alt="Adrian's Dev Card"/></a>
 <a href="https://stackoverflow.com/users/acygnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="acygnar" height="30" width="40" /></a>
 </p>
 
@@ -19,4 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acygnar&show_icons=true&locale=en&layout=compact" alt="acygnar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acygnar&show_icons=true&locale=en" alt="acygnar" /></p>
+
+<a href="https://app.daily.dev/acygnar"><img src="https://api.daily.dev/devcards/7bc8c522225c430b8536f95caa75269d.png?r=ytx" width="400" alt="Adrian's Dev Card"/></a>
 
